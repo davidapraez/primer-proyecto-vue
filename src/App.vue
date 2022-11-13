@@ -194,7 +194,7 @@ Pinta el contador en verde cuando el valor sea mayor a cero.*/
   </ul>
 
   <h1>Final del proyecto</h1>
-
+  <h2>Fin fin de lo malo</h2>
   </div>
 
   
